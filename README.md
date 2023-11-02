@@ -4,6 +4,8 @@
 
 # Exercise 4.5-Tilemap-Coins
 
+Nov 2, 2023
+
 Exercise for MSCH-C220
 
 The fifth exercise for the 2D Platformer project, exploring using tilemaps for consumables (like coins or powerups).
@@ -19,7 +21,7 @@ The [tilemap](https://kenney.nl/assets/abstract-platformer) and the [coin sprite
 
 ## References
 
-None
+This work is highly dependent on videos by Professor Jason Francis
 
 
 ## Future Development
